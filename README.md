@@ -1,3 +1,3 @@
-Data collected form ANTAQ panel (https://estatistica.antaq.gov.br/ea/sense/Relatorio.html#pt)
+RAW Data collected form ANTAQ panel (https://estatistica.antaq.gov.br/ea/sense/Relatorio.html#pt)
 
-Data was clened by the author.
+Data was cleaned by the author.
